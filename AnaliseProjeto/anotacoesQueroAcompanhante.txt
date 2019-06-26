@@ -1,0 +1,15 @@
+=======
+- Avaliação
+	Fazer de modo que nao denigra a imagem de ninguem para evitar processos
+	Classificar por estrela
+
+- Classificações e subcategorias. (na hr do cadastro)
+- Rede de indicação (prestadores de serviços recomendados com base nas avaliações/conhecimento dos "amigos")
+- Cadastrar usando voucher para utilizar como complemento na classificaçao. (caso nao haja recomendação, etc)
+
+======== Arquitetura
+- Mobile/Web
+- API
+
+========
+- Analisar viabilidade de aceleradora
